@@ -7,8 +7,8 @@ services:
   staticPublishPath: src/vanilla/dist
   autoDeploy: false
   envVars:
-  - key: LIFF_ID
-    sync: false
+  - key: 2000636813-BJJvKkKG
+    sync: true
 # - type: web
 #   name: liff-starter-nuxtjs
 #   env: static
